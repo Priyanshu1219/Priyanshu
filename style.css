@@ -62,6 +62,7 @@ table{
     border: 3px solid;
     font-size: larger;
     padding: 20px;
+    display: flexbox;
     border-color: rgb(133, 218, 170);
     width:100%;
 }
